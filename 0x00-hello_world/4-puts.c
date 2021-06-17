@@ -4,6 +4,7 @@ int main(void)
 
 /**
  *main - Entry point
+ *Description: Prints the enclosed chars
  *Return: Always 0 (Success)
 */
 {
