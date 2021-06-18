@@ -2,7 +2,6 @@
 
 /**
  *main - print lowercase a-z
- *description: prints alphabet in lowercase
  *return: Always 0 (Success)
  */
 int main(void)
