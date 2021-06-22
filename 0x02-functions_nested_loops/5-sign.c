@@ -3,7 +3,7 @@
 
 /**
  *print_sign - prints the sign of a number
- *@n - character to be checked
+ *@n: character to be checked
  *Return: 0
  */
 
