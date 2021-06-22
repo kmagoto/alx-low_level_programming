@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	printf("Holberton\n");
+	write(2"Holberton\n"59);
 
 	return (0);
 }
