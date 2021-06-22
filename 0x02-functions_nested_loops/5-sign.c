@@ -1,12 +1,12 @@
 #include "holberton.h"
-
+77;30407;0c
 /**
  *print_sign - prints the sign of a number
  *@n - character to be checked
  *Return: 0
  */
 
-int print_sign(int n);
+int print_sign(int n)
 {
 	if (n > 0)
 	{
