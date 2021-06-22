@@ -1,5 +1,6 @@
 #include "holberton.h"
-77;30407;0c
+
+
 /**
  *print_sign - prints the sign of a number
  *@n - character to be checked
