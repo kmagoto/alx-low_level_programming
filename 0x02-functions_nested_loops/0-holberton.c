@@ -1,13 +1,22 @@
 #include "holberton.h"
 
 /**
- *main = Entry point
+ *main - Entry point
  *Return: Always zero
  */
 
 int main(void)
 {
-	write(2"Holberton\n"59);
+	_putchar('H');
+	_putchar('o');
+	_putchar('l');
+	_putchar('b');
+	_putchar('e');
+	_putchar('r');
+	_putchar('t');
+	_putchar('o');
+	_putchar('n');
+	_putchar('\n');
 
 	return (0);
 }
