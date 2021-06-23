@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - causes an infinite loop
- * Return: 0
- */
+* main - causes an infinite loop
+* Return: 0
+*/
 
 int main(void)
 {
@@ -13,10 +13,9 @@ int main(void)
 
         i = 0;
 
-        while (i < 10)
+        while (i < 10) //the condition will always be true
         {
                 putchar(i);
-		//break; Lack of this is causing the infinite loop
         }
 
         printf("Infinite loop avoided! \\o/\n");
