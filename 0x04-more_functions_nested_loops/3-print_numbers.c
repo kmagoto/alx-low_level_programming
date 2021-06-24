@@ -2,8 +2,6 @@
 
 /**
  *print_numbers - prints numbers from 0-9
- *@i: character to print
- *Return: 0
  */
 
 void print_numbers(void)
