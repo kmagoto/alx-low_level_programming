@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * char *_strncat - concatenates two strings
+ * _strncat - concatenates two strings
  * @dest: first string
  * @src: second string
  * @n: number of bytes to be used
