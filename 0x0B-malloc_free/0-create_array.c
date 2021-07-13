@@ -2,7 +2,7 @@
 #include "holberton.h"
 
 /**
- *create array - creates an array of chars, and initializes with specific char
+ *create_array - creates an array of chars, and initializes with specific char
  *@size: size of array
  *@c: character to fill array
  *
