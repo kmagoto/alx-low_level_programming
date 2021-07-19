@@ -5,6 +5,7 @@
 /**
  * free_dog - free instance of struct dog
  * @d: instance to be freed
+ *
  */
 
 void free_dog(dog_t *d)
